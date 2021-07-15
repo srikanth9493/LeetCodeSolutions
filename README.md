@@ -12,4 +12,5 @@
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[JavaScript](./solutions/300.%20Longest%20Increasing%20Subsequence.js)|196 ms|
 |611|[ Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[JavaScript](./solutions/611.%20Valid%20Triangle%20Number.js)|104 ms|
 |639|[ Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)|[JavaScript](./solutions/639.%20Decode%20Ways%20II.js)|156 ms|
+|718|[ Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[JavaScript](./solutions/718.%20Maximum%20Length%20of%20Repeated%20Subarray.js)|336 ms|
 |791|[ Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[JavaScript](./solutions/791.%20Custom%20Sort%20String.js)|80 ms|
