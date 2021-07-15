@@ -10,5 +10,5 @@
 |205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./solutions/205.%20Isomorphic%20Strings.js)|76 ms|
 |295|[ Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python3](./solutions/295.%20Find%20Median%20from%20Data%20Stream.py)|504 ms|
 |611|[ Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[JavaScript](./solutions/611.%20Valid%20Triangle%20Number.js)|104 ms|
-|639|[ Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)|[JavaScript](./solutions/639.%20Decode%20Ways%20II.js)|188 ms|
+|639|[ Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)|[JavaScript](./solutions/639.%20Decode%20Ways%20II.js)|156 ms|
 |791|[ Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[JavaScript](./solutions/791.%20Custom%20Sort%20String.js)|80 ms|
