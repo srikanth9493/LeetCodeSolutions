@@ -8,12 +8,10 @@ var middleNode = function(head) {
     let fast=head
     let index=1
     let prev
-    while(fast!=null){
-        fast=fast.next
-        if(fast!=null){
-                slow=slow.next
-                fast=fast.next
-        }     
+    while(fast && fast.next!=null){
+        fast=fast.next.next
+        slow=slow.next
+        
     }
     
     return slow;
