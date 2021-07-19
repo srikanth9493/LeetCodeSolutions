@@ -10,6 +10,7 @@
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|188 ms|
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[JavaScript](./solutions/162.%20Find%20Peak%20Element.js)|76 ms|
 |205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./solutions/205.%20Isomorphic%20Strings.js)|76 ms|
+|236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[JavaScript](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.js)|92 ms|
 |295|[ Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python3](./solutions/295.%20Find%20Median%20from%20Data%20Stream.py)|504 ms|
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[JavaScript](./solutions/300.%20Longest%20Increasing%20Subsequence.js)|196 ms|
 |611|[ Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[JavaScript](./solutions/611.%20Valid%20Triangle%20Number.js)|104 ms|
