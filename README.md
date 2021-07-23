@@ -20,4 +20,5 @@
 |791|[ Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[JavaScript](./solutions/791.%20Custom%20Sort%20String.js)|80 ms|
 |838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[JavaScript](./solutions/838.%20Push%20Dominoes.js)|152 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript](./solutions/876.%20Middle%20of%20the%20Linked%20List.js)|76 ms|
+|915|[ Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[JavaScript](./solutions/915.%20Partition%20Array%20into%20Disjoint%20Intervals.js)|88 ms|
 |927|[ Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)|[JavaScript](./solutions/927.%20Three%20Equal%20Parts.js)|88 ms|
