@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./solutions/1.%20Two%20Sum.js)|68 ms|
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./solutions/2.%20Add%20Two%20Numbers.cpp)||
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[JavaScript](./solutions/15.%203Sum.js)|152 ms|
 |18|[ 4Sum](https://leetcode.com/problems/4sum/)|[JavaScript](./solutions/18.%204Sum.js)|84 ms|
