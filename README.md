@@ -28,3 +28,4 @@
 |915|[ Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[JavaScript](./solutions/915.%20Partition%20Array%20into%20Disjoint%20Intervals.js)|88 ms|
 |926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[JavaScript](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.js)|96 ms|
 |927|[ Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)|[JavaScript](./solutions/927.%20Three%20Equal%20Parts.js)|88 ms|
+|954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[JavaScript](./solutions/954.%20Array%20of%20Doubled%20Pairs.js)|596 ms|
