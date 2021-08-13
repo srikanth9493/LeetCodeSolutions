@@ -9,6 +9,7 @@
 |25|[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[JavaScript](./solutions/25.%20Reverse%20Nodes%20in%20k-Group.js)|84 ms|
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[JavaScript](./solutions/31.%20Next%20Permutation.js)|128 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[JavaScript](./solutions/42.%20Trapping%20Rain%20Water.js)|84 ms|
+|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JavaScript](./solutions/49.%20Group%20Anagrams.js)|246 ms|
 |84|[ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[JavaScript](./solutions/84.%20Largest%20Rectangle%20in%20Histogram.js)|124 ms|
 |113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[JavaScript](./solutions/113.%20Path%20Sum%20II.js)|80 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|188 ms|
