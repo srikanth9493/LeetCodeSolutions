@@ -25,6 +25,7 @@
 |295|[ Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python3](./solutions/295.%20Find%20Median%20from%20Data%20Stream.py)|504 ms|
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[JavaScript](./solutions/300.%20Longest%20Increasing%20Subsequence.js)|196 ms|
 |485|[ Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JavaScript](./solutions/485.%20Max%20Consecutive%20Ones.js)|80 ms|
+|540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.js)|68 ms|
 |611|[ Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)|[JavaScript](./solutions/611.%20Valid%20Triangle%20Number.js)|104 ms|
 |639|[ Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)|[JavaScript](./solutions/639.%20Decode%20Ways%20II.js)|156 ms|
 |653|[ Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[JavaScript](./solutions/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.js)|108 ms|
