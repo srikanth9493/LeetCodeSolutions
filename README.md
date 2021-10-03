@@ -8,6 +8,7 @@
 |18|[ 4Sum](https://leetcode.com/problems/4sum/)|[JavaScript](./solutions/18.%204Sum.js)|84 ms|
 |25|[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[JavaScript](./solutions/25.%20Reverse%20Nodes%20in%20k-Group.js)|84 ms|
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[JavaScript](./solutions/31.%20Next%20Permutation.js)|128 ms|
+|33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.js)|60 ms|
 |39|[ Combination Sum](https://leetcode.com/problems/combination-sum/)|[JavaScript](./solutions/39.%20Combination%20Sum.js)|95 ms|
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[JavaScript](./solutions/42.%20Trapping%20Rain%20Water.js)|84 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[JavaScript](./solutions/46.%20Permutations.js)|95 ms|
