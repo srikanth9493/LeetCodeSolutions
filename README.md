@@ -22,6 +22,7 @@
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[JavaScript](./solutions/142.%20Linked%20List%20Cycle%20II.js)|80 ms|
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[JavaScript](./solutions/162.%20Find%20Peak%20Element.js)|76 ms|
 |205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./solutions/205.%20Isomorphic%20Strings.js)|76 ms|
+|231|[ Power of Two](https://leetcode.com/problems/power-of-two/)|[JavaScript](./solutions/231.%20Power%20of%20Two.js)|88 ms|
 |236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[JavaScript](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.js)|92 ms|
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[JavaScript](./solutions/240.%20Search%20a%202D%20Matrix%20II.js)|324 ms|
 |295|[ Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python3](./solutions/295.%20Find%20Median%20from%20Data%20Stream.py)|504 ms|
