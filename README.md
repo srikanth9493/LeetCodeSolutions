@@ -4,6 +4,7 @@
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./solutions/1.%20Two%20Sum.js)|68 ms|
 |2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C++](./solutions/2.%20Add%20Two%20Numbers.cpp)||
+|4|[ Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[JavaScript](./solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.js)|124 ms|
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[JavaScript](./solutions/15.%203Sum.js)|152 ms|
 |18|[ 4Sum](https://leetcode.com/problems/4sum/)|[JavaScript](./solutions/18.%204Sum.js)|84 ms|
 |25|[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[JavaScript](./solutions/25.%20Reverse%20Nodes%20in%20k-Group.js)|84 ms|
