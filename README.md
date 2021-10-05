@@ -25,6 +25,7 @@
 |110|[ Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[JavaScript](./solutions/110.%20Balanced%20Binary%20Tree.js)|139 ms|
 |113|[ Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[JavaScript](./solutions/113.%20Path%20Sum%20II.js)|80 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|188 ms|
+|124|[ Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[JavaScript](./solutions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.js)|138 ms|
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[JavaScript](./solutions/142.%20Linked%20List%20Cycle%20II.js)|80 ms|
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[JavaScript](./solutions/162.%20Find%20Peak%20Element.js)|76 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[JavaScript](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.js)|84 ms|
