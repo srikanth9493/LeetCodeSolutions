@@ -19,6 +19,7 @@
 |84|[ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[JavaScript](./solutions/84.%20Largest%20Rectangle%20in%20Histogram.js)|124 ms|
 |90|[ Subsets II](https://leetcode.com/problems/subsets-ii/)|[JavaScript](./solutions/90.%20Subsets%20II.js)|72 ms|
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[JavaScript](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.js)|151 ms|
+|98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[JavaScript](./solutions/98.%20Validate%20Binary%20Search%20Tree.js)|88 ms|
 |101|[ Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[JavaScript](./solutions/101.%20Symmetric%20Tree.js)|111 ms|
 |102|[ Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./solutions/102.%20Binary%20Tree%20Level%20Order%20Traversal.js)|122 ms|
 |103|[ Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JavaScript](./solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.js)|76 ms|
