@@ -35,6 +35,7 @@
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[JavaScript](./solutions/162.%20Find%20Peak%20Element.js)|76 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[JavaScript](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.js)|84 ms|
 |205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./solutions/205.%20Isomorphic%20Strings.js)|76 ms|
+|230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[JavaScript](./solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.js)|84 ms|
 |231|[ Power of Two](https://leetcode.com/problems/power-of-two/)|[JavaScript](./solutions/231.%20Power%20of%20Two.js)|88 ms|
 |236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[JavaScript](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.js)|92 ms|
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[JavaScript](./solutions/240.%20Search%20a%202D%20Matrix%20II.js)|324 ms|
