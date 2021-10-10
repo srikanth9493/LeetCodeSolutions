@@ -45,6 +45,7 @@
 |240|[ Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[JavaScript](./solutions/240.%20Search%20a%202D%20Matrix%20II.js)|324 ms|
 |295|[ Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Python3](./solutions/295.%20Find%20Median%20from%20Data%20Stream.py)|504 ms|
 |300|[ Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[JavaScript](./solutions/300.%20Longest%20Increasing%20Subsequence.js)|196 ms|
+|416|[ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[JavaScript](./solutions/416.%20Partition%20Equal%20Subset%20Sum.js)|292 ms|
 |485|[ Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JavaScript](./solutions/485.%20Max%20Consecutive%20Ones.js)|80 ms|
 |518|[ Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[JavaScript](./solutions/518.%20Coin%20Change%202.js)|112 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[JavaScript](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.js)|68 ms|
