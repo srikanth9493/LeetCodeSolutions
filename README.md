@@ -51,6 +51,7 @@
 |700|[ Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[JavaScript](./solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree.js)|88 ms|
 |718|[ Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[JavaScript](./solutions/718.%20Maximum%20Length%20of%20Repeated%20Subarray.js)|336 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[JavaScript](./solutions/733.%20Flood%20Fill.js)|96 ms|
+|785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[JavaScript](./solutions/785.%20Is%20Graph%20Bipartite%3F.js)|88 ms|
 |791|[ Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[JavaScript](./solutions/791.%20Custom%20Sort%20String.js)|80 ms|
 |814|[ Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[JavaScript](./solutions/814.%20Binary%20Tree%20Pruning.js)|80 ms|
 |838|[ Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[JavaScript](./solutions/838.%20Push%20Dominoes.js)|152 ms|
