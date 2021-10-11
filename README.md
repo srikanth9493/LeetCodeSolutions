@@ -7,6 +7,7 @@
 |4|[ Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[JavaScript](./solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.js)|124 ms|
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[JavaScript](./solutions/15.%203Sum.js)|152 ms|
 |18|[ 4Sum](https://leetcode.com/problems/4sum/)|[JavaScript](./solutions/18.%204Sum.js)|84 ms|
+|20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./solutions/20.%20Valid%20Parentheses.js)|118 ms|
 |25|[ Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[JavaScript](./solutions/25.%20Reverse%20Nodes%20in%20k-Group.js)|84 ms|
 |31|[ Next Permutation](https://leetcode.com/problems/next-permutation/)|[JavaScript](./solutions/31.%20Next%20Permutation.js)|128 ms|
 |33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.js)|60 ms|
