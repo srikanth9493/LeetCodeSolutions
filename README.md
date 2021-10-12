@@ -37,6 +37,7 @@
 |133|[ Clone Graph](https://leetcode.com/problems/clone-graph/)|[JavaScript](./solutions/133.%20Clone%20Graph.js)|127 ms|
 |142|[ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[JavaScript](./solutions/142.%20Linked%20List%20Cycle%20II.js)|80 ms|
 |152|[ Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[JavaScript](./solutions/152.%20Maximum%20Product%20Subarray.js)|76 ms|
+|155|[ Min Stack](https://leetcode.com/problems/min-stack/)|[JavaScript](./solutions/155.%20Min%20Stack.js)|172 ms|
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[JavaScript](./solutions/162.%20Find%20Peak%20Element.js)|76 ms|
 |199|[ Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[JavaScript](./solutions/199.%20Binary%20Tree%20Right%20Side%20View.js)|84 ms|
 |205|[ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./solutions/205.%20Isomorphic%20Strings.js)|76 ms|
