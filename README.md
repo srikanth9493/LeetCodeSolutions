@@ -70,4 +70,5 @@
 |926|[ Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[JavaScript](./solutions/926.%20Flip%20String%20to%20Monotone%20Increasing.js)|96 ms|
 |927|[ Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)|[JavaScript](./solutions/927.%20Three%20Equal%20Parts.js)|88 ms|
 |954|[ Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[JavaScript](./solutions/954.%20Array%20of%20Doubled%20Pairs.js)|596 ms|
+|994|[ Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[JavaScript](./solutions/994.%20Rotting%20Oranges.js)|162 ms|
 |1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[JavaScript](./solutions/1143.%20Longest%20Common%20Subsequence.js)|112 ms|
