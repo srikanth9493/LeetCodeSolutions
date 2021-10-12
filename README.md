@@ -22,6 +22,7 @@
 |64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[JavaScript](./solutions/64.%20Minimum%20Path%20Sum.js)|64 ms|
 |72|[ Edit Distance](https://leetcode.com/problems/edit-distance/)|[JavaScript](./solutions/72.%20Edit%20Distance.js)|100 ms|
 |73|[ Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[JavaScript](./solutions/73.%20Set%20Matrix%20Zeroes.js)|100 ms|
+|74|[ Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[JavaScript](./solutions/74.%20Search%20a%202D%20Matrix.js)|72 ms|
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./solutions/75.%20Sort%20Colors.js)|68 ms|
 |84|[ Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[JavaScript](./solutions/84.%20Largest%20Rectangle%20in%20Histogram.js)|124 ms|
 |90|[ Subsets II](https://leetcode.com/problems/subsets-ii/)|[JavaScript](./solutions/90.%20Subsets%20II.js)|72 ms|
