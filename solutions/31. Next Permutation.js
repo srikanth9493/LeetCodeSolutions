@@ -32,3 +32,4 @@ var nextPermutation = function(nums) {
     
     console.log(nums,'after')
     
+    while(nums[end]>=nums[last] && end<last){
