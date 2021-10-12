@@ -15,6 +15,7 @@
 |42|[ Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[JavaScript](./solutions/42.%20Trapping%20Rain%20Water.js)|84 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[JavaScript](./solutions/46.%20Permutations.js)|95 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[JavaScript](./solutions/49.%20Group%20Anagrams.js)|246 ms|
+|53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./solutions/53.%20Maximum%20Subarray.js)|96 ms|
 |54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[JavaScript](./solutions/54.%20Spiral%20Matrix.js)|64 ms|
 |61|[ Rotate List](https://leetcode.com/problems/rotate-list/)|[JavaScript](./solutions/61.%20Rotate%20List.js)|76 ms|
 |64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[JavaScript](./solutions/64.%20Minimum%20Path%20Sum.js)|64 ms|
